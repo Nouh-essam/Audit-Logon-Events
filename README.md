@@ -111,7 +111,7 @@ Important Event IDs:
 ### Failed Logon Event
 ![failed-logon-event.png](failed-logon-event.png)
 
-### Kerberos Authentication Failure
+### Successful Logon Event
 ![successful-logon-event.png](successful-logon-event.png)
 
 ---
